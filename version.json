@@ -1,5 +1,5 @@
 {
-  "Version": "3.5",
-  "Url": "https://raw.githubusercontent.com/film040100-lab/FilmRemap-Updates/main/FilmRemap-Updates.zip",
+  "Version": "3.6",
+  "Url": "https://raw.githubusercontent.com/film040100-lab/FilmRemap-Updater/main/FilmRemap-Updates.zip",
   "ReleaseNotes": "เพิ่มระบบอัปเดตอัตโนมัติ และปรับปรุงการเชื่อมต่อ ECU"
 }
